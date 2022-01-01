@@ -1,6 +1,6 @@
 #git作業11
 #git分支
-
+#偷改
 #判斷是否為閏年
 def leapyear(year):
     if year%4==0 and year%100!=0 or year%400==0:
